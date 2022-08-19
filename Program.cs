@@ -24,7 +24,7 @@ namespace assignments
             Console.WriteLine("Output : {0} * {1} * {2} = {3}", num1, num2, num3, result);
             Console.ReadLine();
 
-            program-3
+            
 
 
 
